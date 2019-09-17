@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <server name="服务器配置">
+    <serverip key="192.168.1.182"></serverip>
+    <dataname key="nrx"></dataname>
+    <userid key="sa"></userid>
+    <password key="Lwnj3578"></password>
+  </server>
+</settings>
